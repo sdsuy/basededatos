@@ -2,7 +2,7 @@ Prompt ******  Creando tabla FUNCIONALIDAD ....
 
 CREATE TABLE funcionalidad
     ( id_funcionalidad  INTEGER NOT NULL
-    , nombre            VARCHAR(20) NOT NULL
+    , nombre            VARCHAR(30) NOT NULL
     , descripcion       VARCHAR(40)
     ) ;
     
